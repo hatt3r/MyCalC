@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCalC</string>
+    <string name = "calc_text">123456789</string>
+    <string name="Divide">/</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+
+</resources>
